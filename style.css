@@ -23,11 +23,13 @@
     background-color:rgb(240,233,215)
 }
 
+
 /* .cbutton:hover {
     -webkit-transition-duration: 0.4s; 
     transition-duration: 0.4s;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 } */
+
 
 /* font (EMAIL ME) */
 p.email{
@@ -41,7 +43,7 @@ p.email{
 .text{
     color: rgb(110, 79, 35);
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 /* font (CONNECT) */
@@ -51,3 +53,27 @@ p.connect{
     font-size: 40px;
 
 }
+
+/* icon Size */
+.icon{
+    color: rgb(184, 83, 22);
+    font-size: 60px;
+    text-align: left;
+    
+}
+
+/* icon text */
+.icontext{
+    color: rgb(103, 104, 90);
+    font-size: 25px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.spacing{
+
+}
+
+/* .linkedin{
+    margin-left: 50px;
+} */
