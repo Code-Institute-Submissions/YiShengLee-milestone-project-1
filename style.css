@@ -1,0 +1,10 @@
+/* Change navbar colour */
+.nav.navbar.navbar-expand-lg.navbar-light{
+    color: gray;
+}
+
+/* Re-sizing Logo */
+.logo{
+    height: 36 px;
+    width: 36px;
+}
