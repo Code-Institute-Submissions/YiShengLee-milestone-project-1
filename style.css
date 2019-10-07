@@ -14,12 +14,17 @@
 } */
 
 /* Contact Header */
-/* .contact_header{
-    height: 300px;
-    width: 1151px;
-    border: 1px black;
-} */
+.contact_header img{
+    height: 400px;
+}
 
+/* Change the dimension of the contact picture */
 .container{
     background-color:rgb(240,233,215)
 }
+
+/* .cbutton:hover {
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+} */
