@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/2344b1213a.js" crossorigin="anonymous"></script>
     <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
   </head>
 
   <body>
@@ -47,6 +48,7 @@
       </div>
     </nav>
 
+
     <!-- Insert Contact me header -->
     <div class="contact_header">
         <img src="images/contact_me.jpg"  class="img-responsive" alt="Contact Me Header">
@@ -60,9 +62,15 @@
 
     <!-- Form Control with Grid-->
     <div class="container">
+        <br>
+        
         <div class="row">
-            <div class="colleft">
-            <form class="col-md-12 col-lg-6 my-5">
+            <!-- left column display -->
+
+            <div class="colleft col-lg-6 col-md-12">
+            <p class="email">EMAIL ME</p>
+            
+            <form class="text">
                 First Name:<br>
                 <input type="text" name="firstname" style="width: 350px"><br><br>
 
@@ -75,16 +83,51 @@
                 Your Message:<br>
                 <input type="text" name="message" style="width: 350px; height:150px;"><br><br>
 
-                <br>
-                <input class="btn btn-success btn-lg cbutton" type="submit" value="Submit">
-
+                
+                <input class="btn btn-success btn-lg cbutton" type="submit" value="Send Message">
+                
                 </form>
+                <br>
             </div>
-            <div class="colright col-md-12 col-lg-6 mx-lg-5 my-md-5 my-sm-5">
-            <p>For any further info, to discuss a project, or even if you want fancy a chat. Feel free to drop me a line below, thanks. 
 
-            </p>
+            <!-- right column display -->
+            <div class="colright col-md-12 col-lg-6 my-lg-0 my-md-5 my-sm-2">
+            <p class="connect">CONNECT</p>
+            <p>For any further info, to discuss a project, or even if you want fancy a chat. Feel free to drop me a line below, thanks. </p>
+            
+            <!-- Icon Insert for social media -->
+            <div class="icon">
+                <div class="spacing">
+                <i class="fab fa-facebook-square"></i>
 
+                <a href="https://www.facebook.com/lee.yisheng.9">
+                    <span class="icontext">FACEBOOK</span>
+                </a>
+                </div>
+
+                <div class="mt-lg-5 mt-lg-2 spacing">
+                <i class="linkedin fab fa-linkedin"></i>
+                <a href="https://www.linkedin.com/in/yi-sheng-lee-6a052b14/">
+                    <span class="icontext">LINKEDIN</span>
+                </a>
+                </div>
+
+                <div class="mt-lg-5 mt-lg-2 spacing">
+                <i class="youtube fab fa-youtube-square"></i>
+                <a href="https://www.youtube.com/channel/UCTBkZEaXCy1u_Dk0xVwmwDA">
+                    <span class="icontext">YOUTUBE</span>
+                </a>
+                </div>
+
+            </div>
+
+            
+
+
+
+            
+        </div>
+    </div>
 
 
 
