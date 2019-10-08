@@ -46,6 +46,21 @@ p.email{
     font-size: 20px;
 }
 
+
+/*input information (small box)*/
+.box1{
+    width: 350px;
+}
+
+
+.box2{
+    width: 350px;
+    height: 150px;
+}
+
+
+
+
 /* font (CONNECT) */
 p.connect{
     color: rgb(184, 83, 22);
