@@ -54,10 +54,16 @@ p.connect{
 
 }
 
+/*Change hyperlink Color*/
+a{
+    color: rgb(184, 83, 22);
+}
+
+
 /* icon Size */
 .icon{
     color: rgb(184, 83, 22);
-    font-size: 60px;
+    font-size: 50px;
     text-align: left;
     
 }
@@ -70,10 +76,74 @@ p.connect{
     font-weight: bold;
 }
 
-.spacing{
-
+.facebook:hover{
+    color: #3b5998;
 }
+
+
+.linkedin:hover{
+    color: #0e76a8;
+}
+
+
+.youtube:hover{
+    color: #c4302b;
+}
+
 
 /* .linkedin{
     margin-left: 50px;
 } */
+
+
+/*Main Page background_desktop*/
+.base{
+    width: 100%;
+    z-index: 1;
+}
+
+.base2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    max-height: 150px;
+    max-width: 150px;
+    position: relative;
+    z-index: 2;
+    
+    /*min-height: 150px;*/
+    /*max-height: 150px;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*vertical-align: middle;*/
+    /*top: 20px;*/
+    /*left: 20px;*/
+    /*position: relative;*/
+    /*z-index: 2;*/
+    
+
+}
+
+
+
+
+/*Media Query for phone size*/
+/*@media only screen and (min-width: 720px){*/
+/*    .background_home{*/
+/*    background-image: url("images/Mountain_2.png");*/
+/*    background-repeat: no-repeat;*/
+    
+/*    }*/
+/*}*/
+
+
+/*Media Query for destop*/
+/*@media only screen and (min-width: 992px){*/
+/*    .background_home{*/
+/*    background-image: url("images/Mountain_1.png");*/
+/*    background-repeat: no-repeat;*/
+    
+/*    }*/
+/*}*/
