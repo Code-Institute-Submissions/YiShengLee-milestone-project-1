@@ -91,6 +91,7 @@ a{
     font-weight: bold;
 }
 
+/*hover color for different icon*/
 .facebook:hover{
     color: #3b5998;
 }
@@ -108,12 +109,18 @@ a{
 /*end section of contact.html*/
 .end_message{
     background-color:rgb(52 58 64);
+    padding: 5px;
 }
+
 
 .end_text{
     color: white;
     text-align: center;
     font-size: 15px;
+}
+
+.copyright{
+    font-size: 25px;
 }
 
 
@@ -134,11 +141,7 @@ a{
 }
 
 
-/*Copyrights on contact page*/
-.end_message{
-    text-align: center;
-    padding: 5px;
-}
+
 
 
 /*Media Query for phone size*/
