@@ -19,7 +19,7 @@
 }
 
 /* Change the dimension of the contact picture */
-.container{
+.contact_box{
     background-color:rgb(240,233,215)
 }
 
@@ -206,9 +206,39 @@ a{
     width: 100%;
 }
 
-.about1{
-    
+.about_slogan{
+    background-color: rgb(202,149,164);
+    font-family: 'Shojumaru', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
 }
+
+.about1{
+    background-color: rgb(254,209,73);
+}
+
+
+.about2{
+    background-color: rgb(81,193,159);
+}
+
+
+.about3{
+    background-color: rgb(62,169,245);
+}
+
+.ab_icon1{
+    font-size: 60px;
+}
+
+
+/*temporary spacing*/
+.between{
+    height:200px;
+}
+
+
 
 
 /*Media Query for phone size*/
