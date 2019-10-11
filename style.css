@@ -164,16 +164,22 @@ a{
     height: 150px;
 }
 
+
+/*Index "Hello" Section*/
 .index_title{
     font-family: 'Luckiest Guy', cursive;
     font-size: 70px;
 }
 
+
+/*Index name introduction*/
 .index_intro{
     font-family: 'Playball', cursive;
     font-size: 50px;
 }
 
+
+/*Index description about me */
 .index_description{
     font-family: 'Rye', cursive;
     padding-top: 5px;
@@ -184,7 +190,14 @@ a{
 }
 
 
-
+.down_resume{
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
 
 
 /*Media Query for phone size*/
