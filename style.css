@@ -268,8 +268,13 @@ a{
     padding: 20px;
 }
 
+/*image inside the card*/
+.card-img-top{
+    width: auto;
+}
 
 
+/*Click for more photos button*/
 .design_button{
     background-color: teal;
     border: none;
@@ -286,6 +291,7 @@ a{
   overflow: hidden;
   background-color: #f1f1f1;
 }
+
 
 
 
