@@ -164,9 +164,24 @@ a{
     height: 150px;
 }
 
+.index_title{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 70px;
+}
 
+.index_intro{
+    font-family: 'Playball', cursive;
+    font-size: 50px;
+}
 
-
+.index_description{
+    font-family: 'Rye', cursive;
+    padding-top: 5px;
+    border: 2px solid rgb(240,233,215);
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+}
 
 
 
