@@ -129,5 +129,54 @@ On the Internet Explorer and Explorer Edge, the copywrite symbol and the writing
 does not work well in both Internet Explorer and Explorer Edge. The auto input information did not displayed correctly when selected.
 
 
+## Deployment ##
+
+The website was created using Cloud9 IDE using Ubuntu with BASH. Git was used for version control and pushed to a repository hosted on 
+[Github](https://github.com).
+
+The website is deployed using Github pages [Lee Yi Sheng](https://yishenglee.github.io/milestone-project-1/)
+
+### How to deploy the code locally ###
+
+If you wish to run this code locally then please follow the instructions below. 
+
+1. Download the code from the Github repository at [https://github.com/YiShengLee/milestone-project-1](https://github.com/YiShengLee/milestone-project-1).
+2. Click on Clone or download then Download ZIP. This will download the code into a ZIP folder locally on your computer.
+3. Uncompress the ZIP folder. 
+
+## Credits ##
+
+### Code ###
+
+* [w3schools.com](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
+    * Used to create button
+    * Grid Layout
+* Modal [w3schools.com](https://www.w3schools.com/howto/howto_css_modals.asp)
+    * Modal for successful contact form submission.
+
+### Images ###
+
+All images for this web site are being used under free commercial license from [ShutterStock](https://www.google.com.sg/). Links to each image are below.
+
+* [Pattern 3](https://www.shutterstock.com/image-vector/abstract-retro-pattern-geometric-shapes-colorful-634125383?src=tThcaBzKtPtVu9RfauvaNQ-1-5)
+* All the photos taken in portfolio section is all my project as I own a 3D printer myself
+
+
+### Logo ###
+Image of the stamp was taken from [Pixaby](https://pixabay.com/vectors/stamp-postage-post-vintage-postal-303749/) under free commercial license.
+The writing of 'iDest' was screenshot from [Google Fonts](https://fonts.google.com/specimen/Special+Elite) Special Elite, and 
+then overlayed using Abode Xd to create the final image.
+
+
+### Icons ###
+
+The icons for the buttons where sourced under free commercial license from [Font](https://fontawesome.com/).
+
+* [Youtube icon](https://fontawesome.com/icons/youtube-square?style=brands)
+* [Facebook icon](https://fontawesome.com/icons/facebook-square?style=brands)
+* [Linkedin icon](https://fontawesome.com/icons/linkedin?style=brands)
+* [Download icon](https://fontawesome.com/icons/download?style=solid)
+* [Down Circle icon](https://fontawesome.com/icons/arrow-alt-circle-down?style=solid)
+
 
 
