@@ -222,9 +222,19 @@ a{
     background-color: rgb(254,209,73);
 }
 
-.about_word{
+.about_word1{
     font-family: 'Merienda', cursive;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
 }
+
+.about_word2{
+    font-family: 'Merienda', cursive;
+    text-align: justify;
+}
+
+
 
 .ab_icon1{
     font-size: 60px;
