@@ -60,3 +60,74 @@ Future features
 * Add more different category of my portfolio.
 * Link the contact form to a google sheet for data storage.
 
+
+## Technologies Used ##
+
+Below are a list of the programming languages, technologies and frameworks used for this website.
+
+* HTML5
+* CSS3
+* Script
+* Markdown
+    * Used to write the README.md file.
+* [Bootstrap 4.3.1 framework](https://getbootstrap.com/)
+    * The website uses boostrap framework for it's grid system, button styling, dropdown list, and responsive navigation bar.
+* [Cloud9IDE](https://aws.amazon.com/cloud9/)
+    * Cloud9 was the IDE used to write the code for this website.
+* [Google Fonts](https://fonts.google.com/)
+    * A total of 6 different fonts are being used/
+* [Github](https://github.com)
+* [Font Awesome](https://fontawesome.com/)
+    * For social media icons and Glyphicons.
+* Google Chrome Developer Tools
+* Safari
+
+
+## Testing ##
+
+I conducted testing across different platforms and web browsers in order to make sure the website worked correctly, and
+looked great across each one. I also asked friends and family to test across their own devices and to give me honest opinons and feedback.
+
+Platforms:
+* Samsung Galaxy 8
+    * Google Chrome
+    * Samsung web browser
+* iPad Mini
+    * Safari
+* Ubuntu 18.0
+    * Google Chrome
+* Windows 10
+    * Google Chrome
+    * Firefox
+    * Mircosoft Edge
+    * IE 11
+* Windows 7
+    * Google Chrome
+    * IE 11
+
+Manual testing was conducted to ensure the user story objectives where achieved.
+1. Contact form
+    * Try to submit the empty form and verify that an error message about the required fields appears.
+    * Try to submit the form with an empty name in First Name and verify that a relevant error message appears.
+    * Try to submit the form with invaild values in the name field and verify that a relevant error message appears.
+    * Try to submit the form with an empty Last Name and verify that a relevant error message appears.
+    * Try to submit the form with invaild values in the Last Name field and verify that a relevant error message appears.
+    * Try to submit the form with an empty Company Name and verify that a relevant error message appears.
+    * Try to submit the form with invaild values in the Company Name field and verify that a relevant error message appears.
+    * Try to submit the button with an empty Company Size and verify that a relevant error message appears.
+    * Try to submit the button with invaild values in the Company Size field and verify that a relevant error message appears.
+    * 'All' selected as the country and checked autocomplete shows cities from different countries.
+    * Select each country and check autocomplete shows cities from the respected country.
+    * When the country and city have been selected dropdown list disappear.
+    * Try to submit the form with an empty email field and verify that a relevant error message appears.
+    * Try to submit the form with an invalid email address and verify that a relevant error message appears.
+
+2. Web application works across different device types
+    * Load website on different device types and perform all testing that has been stated above.
+
+On the Internet Explorer and Explorer Edge, the copywrite symbol and the writing not display sometime. The color of the bottom of the website did not diplayed the desired color. Autofill function 
+does not work well in both Internet Explorer and Explorer Edge. The auto input information did not displayed correctly when selected.
+
+
+
+
