@@ -113,14 +113,22 @@ a{
 }
 
 
+/*footer copywrite text size*/
 .end_text{
     color: white;
     text-align: center;
     font-size: 15px;
 }
 
+
+/*footer copywrite icon size*/
 .copyright{
     font-size: 25px;
+}
+
+.body_contact{
+    background-image: url("images/pattern_3.png");
+    background-repeat: repeat;
 }
 
 
