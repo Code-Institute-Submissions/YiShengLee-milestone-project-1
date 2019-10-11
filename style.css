@@ -285,6 +285,7 @@ a{
 }
 
 
+/*Drop down function*/
 .content {
   padding: 0 18px;
   display: none;
@@ -292,10 +293,25 @@ a{
   background-color: #f1f1f1;
 }
 
+
+/*Drop down picture size*/
 .design_3d{
     height:250px;
     width:250px;
     padding: 10px;
+}
+
+
+/*card title font */
+.card-title{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 28px;
+}
+
+/*card text font */
+.card-text{
+    font-family: 'Rye', cursive;
+    font-size: 20px;
 }
 
 
