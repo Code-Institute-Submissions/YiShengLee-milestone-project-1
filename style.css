@@ -91,25 +91,29 @@ a{
     font-weight: bold;
 }
 
-/*hover color for different icon*/
+/*hover color for facebook icon*/
 .facebook:hover{
     color: #3b5998;
 }
 
 
+/*hover color for linkedin icon*/
 .linkedin:hover{
     color: #0e76a8;
 }
 
 
+/*hover color for youtube icon*/
 .youtube:hover{
     color: #c4302b;
 }
 
+
 /*end section of contact.html*/
 .end_message{
     background-color:rgb(52 58 64);
-    padding: 5px;
+    padding: 8px;
+    
 }
 
 
@@ -126,6 +130,8 @@ a{
     font-size: 25px;
 }
 
+
+/*contact page background*/
 .body_contact{
     background-image: url("images/pattern_3.png");
     background-repeat: repeat;
