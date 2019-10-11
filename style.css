@@ -198,7 +198,6 @@ a{
     padding: 12px 30px;
     cursor: pointer;
     font-size: 20px;
-    
 }
 
 /*about header picture*/
@@ -262,6 +261,8 @@ a{
     color: rgb(253,210,73);
 }
 
+
+/*About contact button*/
 .contact_button{
     text-align: center;
     padding: 20px;
@@ -269,10 +270,25 @@ a{
 
 
 
-/*temporary spacing*/
-/*.between{*/
-/*    height:200px;*/
-/*}*/
+.design_button{
+    background-color: teal;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+
+
 
 
 
