@@ -139,20 +139,34 @@ a{
 
 
 /*Main Page background_desktop*/
-.base{
-    width: 100%;
-    z-index: 1;
-}
-
-.base2{
+.background_desktop{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     vertical-align: middle;
-    position: relative;
-    z-index: 2;
     background-image:url("images/Mountain_1.png");
+    background-repeat: no-repeat;
+    height: 1600px;
+    width: 100%;
 }
+
+/*main page my icon*/
+.base{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+
+/*break page section*/
+.page_section{
+    height: 150px;
+}
+
+
+
+
 
 
 
@@ -160,7 +174,7 @@ a{
 
 /*Media Query for phone size*/
 /*@media only screen and (min-width: 720px){*/
-/*    .background_home{*/
+/*    .background_desktop{*/
 /*    background-image: url("images/Mountain_2.png");*/
 /*    background-repeat: no-repeat;*/
     
@@ -168,9 +182,9 @@ a{
 /*}*/
 
 
-/*Media Query for destop*/
+/*Media Query for desktop*/
 /*@media only screen and (min-width: 992px){*/
-/*    .background_home{*/
+/*    .background_desktop{*/
 /*    background-image: url("images/Mountain_1.png");*/
 /*    background-repeat: no-repeat;*/
     
