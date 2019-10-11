@@ -190,6 +190,7 @@ a{
 }
 
 
+/*button to download resume*/
 .down_resume{
     background-color: DodgerBlue;
     border: none;
@@ -197,6 +198,16 @@ a{
     padding: 12px 30px;
     cursor: pointer;
     font-size: 20px;
+    
+}
+
+/*about header picture*/
+.about_header img{
+    width: 100%;
+}
+
+.about1{
+    
 }
 
 
