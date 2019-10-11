@@ -43,4 +43,20 @@ selection of countries allowed me to learn more about the ISO standard for codin
 During the whole process of designing this website, finding images and icons that visualy went together is kind of challengin and time consuming.
 
 
+## Features ##
+
+Features on this website are:
+
+* The links in the navigation when hovered over turn black to indicate which link the users cursor is over.
+* When hovering over any links the cursor changes from a pointer to a hand.
+* The country input field has a autocomplete function to aide the user in selecting/finding the city they wish to visit.
+* A required field mark with * must be filled in order to proceed and submit.
+* Dropdown card style had been implemented in [Portfolio page](https://yishenglee.github.io/milestone-project-1/portfolio.html) for user to view more photos.
+* User are able to download a copy of my resume directly.
+* User are able to email directly to my email address for required information.
+
+Future features
+* Adding more photos of my projects.
+* Add more different category of my portfolio.
+* Link the contact form to a google sheet for data storage.
 
